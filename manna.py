@@ -47,14 +47,14 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ -----------------------------•◈•
-(  __)\\ ____--------------_------------•◈•
+logo = """ -----manna------------------------•◈•
+(  __)\\ ____----kumar----------_------------•◈•
 |__(~)    •||•THE - AAHIL -OFFICAL------•◈•
 |__\~~) •||•RANA - RAJPUT---------------•◈•
 |__(-----\  •◈•------BLACK-TIGER--------•◈•
-|__~~~\ •◈•-----█-------⑦-------█------•◈•
-|__~~~\ •◈•-----█-------⑧-------█------•◈•
-|__~~~\ •◈•-----█-------⑥-------█------•◈•
+|__~~~\ •◈•-----█--snake gaming-----⑦-------█------•◈•
+|__~~~\ •◈•-----█-------⑧-------█-ok-----•◈•
+|__~~~\ •◈•-----█-------⑥-------█--ok----•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
 \033[1;96mInstagram \033[1;93m: \033[1;FlowRana
@@ -95,8 +95,8 @@ while (loop == 'true'):
     username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
+        if (password == CorrectPassword):manna233
+            print "Logged in successfully as " + username snake game
             loop = 'false'
         else:
             print "Wrong Password"
